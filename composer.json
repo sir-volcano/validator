@@ -1,0 +1,16 @@
+{
+    "name": "lava/validator",
+    "authors": [
+        {
+            "name": "volcano℃",
+            "email": "958427796@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lava\\validator\\":"src/"
+        }
+    },
+    "license": "MIT"
+}

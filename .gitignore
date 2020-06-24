@@ -1,0 +1,14 @@
+.buildpath
+.DS_Store
+.project
+.settings
+.env
+.idea
+.git
+/build
+/node_modules
+Vagrantfile
+vendor/*
+composer.lock
+.vscode/
+.vagrant
